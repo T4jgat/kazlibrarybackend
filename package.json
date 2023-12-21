@@ -1,0 +1,19 @@
+{
+  "name": "kazlibrarybackend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/T4jgat/kazlibrarybackend.git"
+  },
+  "author": "t4jgat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/T4jgat/kazlibrarybackend/issues"
+  },
+  "homepage": "https://github.com/T4jgat/kazlibrarybackend#readme"
+}
